@@ -1,7 +1,6 @@
 ## Hello everyone. 
 I'm Eric, an independent developer with a strong expertise in backend development.   
-
-I like crisps ![crisps](https://cdn.emojidex.com/emoji/seal/crisps.png "crisps")
+I like crisps.  
 [Support](https://afdian.net/a/erictik)  
 
 
