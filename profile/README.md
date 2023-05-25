@@ -1,7 +1,7 @@
 ## Hello everyone. 
 I'm Eric, an independent developer with a strong expertise in backend development.    
 I hope to contribute to the open source community through my efforts.  
-[Support](https://afdian.net/a/midjourney-api)  
+[Support](https://afdian.net/a/erictik)  
 
 
 <!--
