@@ -1,6 +1,7 @@
 ## Hello everyone. 
-I'm Eric, an independent developer with a strong expertise in backend development.    
-I hope to contribute to the open source community through my efforts.  
+I'm Eric, an independent developer with a strong expertise in backend development.   
+
+
 [Support](https://afdian.net/a/erictik)  
 
 
