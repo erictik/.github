@@ -1,4 +1,4 @@
-## Hello everyone. 
+## Hi
 I'm Eric, an independent developer with a strong expertise in backend development.   
 I like crisps.  
 [Support](https://afdian.net/a/erictik)  
