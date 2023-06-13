@@ -2,7 +2,7 @@
 I'm Eric, an independent developer with a strong expertise in backend development.   
 I like crisps.  
 [Support](https://afdian.net/a/erictik)  
-
+[by me a coffee](https://www.buymeacoffee.com/ericktik)
 
 <!--
 
