@@ -1,8 +1,7 @@
 ## Hi
 I'm Eric, an independent developer with a strong expertise in backend development.   
 I like crisps.  
-[by me a coffee](https://ko-fi.com/erictik)
-
+<a href='https://ko-fi.com/U7U4M97R2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--
 
 **Here are some ideas to get you started:**
